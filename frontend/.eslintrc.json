@@ -43,7 +43,9 @@
     ],
     "no-use-before-define": "off",
     "prettier/prettier": "error",
-    "@typescript-eslint/explicit-module-boundary-types": "off"
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "jsx-a11y/label-has-associated-control": 0,
+    "camelcase": 0
   },
   "settings": {
     "import/resolver": {
